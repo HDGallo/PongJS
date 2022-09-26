@@ -1,2 +1,2 @@
 # PongJS
- Pong com JavaScript
+ Recriando Pong com JavaScript.
